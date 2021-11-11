@@ -311,7 +311,7 @@ const Home: NextPage = () => {
         </div>
 
         <section className="bg-white border-b py-8">
-          <div className="container mx-auto flex flex-wrap pt-4 pb-12 justify-center">
+          <div className="container mx-auto flex flex-wrap pt-4 pb-12 justify-center items-start">
             <h1 className="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
               Cool Projects
             </h1>
@@ -369,7 +369,7 @@ const Home: NextPage = () => {
                 title="img"
                 width="200"
                 height="200"
-                className="w-full h-auto object-cover rounded-t-lg p- gradient"
+                className="w-full h-auto object-cover rounded-t-lg"
               />
               <div className="w-full p-4  justify-start flex flex-col">
                 <h4 className="border-b-2 text-3xl">Happy Face</h4>
