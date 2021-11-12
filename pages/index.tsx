@@ -25,7 +25,7 @@ const Home: NextPage = () => {
                 Together we can dance, code, and change ourselves and the world
                 around us
               </p>
-              <div className="flex space-x-2  flex-wrap justify-center w-full my-6">
+              <div className="relative z-10 flex space-x-2  flex-wrap justify-center w-full my-6">
                 <a
                   target="_blank"
                   rel="noreferrer"
